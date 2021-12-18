@@ -28,7 +28,7 @@
 
 ## 📊 Stats
 
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
+[![CodeFactor](https://www.codefactor.io/repository/github/PereraSehath/Eliza-Annie-Video-Streamer/badge)](https://www.codefactor.io/repository/github/PereraSehath/Eliza-Annie-Video-Streamer)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
