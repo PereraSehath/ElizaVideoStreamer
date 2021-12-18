@@ -1,7 +1,7 @@
 <h1 align= center><b>⭐️ Eliza-Annie Video Streamer ⭐️</b></h1>
 <h3 align = center> Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat </h3>
 
-<p align="center"><a href="https://t.me/Lucifer_Video_S_Bot"><img src="https://te.legra.ph/file/65744c57e2bebd76b4e02.jpg"></a></p>
+<p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
     <img src="https://img.shields.io/github/license/PereraSehath/Eliza-Annie-Video-Streamer?style=for-the-badge" alt="LICENSE">
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/github/commit-activity/w/PereraSehath/Eliza-Annie-Video-Streamer?style=for-the-badge" alt="Commit Activity">
     <img src="https://img.shields.io/github/issues/PereraSehath/Eliza-Annie-Video-Streamer?style=for-the-badge" alt="Issues">
 </p>
+
 
 
 <h3 align="center">
