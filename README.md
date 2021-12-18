@@ -83,6 +83,20 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PereraSehath/Eliza-Annie-Video-Streamer)
 
+
+# Special Credits ❤
+
+- **[Levina](https://github.com/levina-lab)**
+- **[YukkiX](https://github.com/NotReallyShikhar)**
+
+
+## Devs
+
+- [Sehath Perera](https://github.com/PereraSehath) - Owner| Dew
+- [Thilina](https://github.com/Thilinaweerasekara2003) - Dev
+- [Deshadeeth Thisarana](https://github.com/Deshadeeth-Thisarana) - Dev
+- [Jonathan](https://github.com/Darkskull93) - Dev
+
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
 
@@ -103,9 +117,19 @@ python3 main.py # run the bot.
 # continue the host with screen or anything else, thanks for reading.
 ```
 
-# Credits 💖
+<h2 align="center">
+   Contact
+</h2>
 
-- **[Levina](https://github.com/levina-lab)**
-### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<p align="center">
+<a href="https://t.me/Updates_of_ElizaBot"><img src="https://img.shields.io/badge/Annie-Eliza%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
+<a href="https://t.me/SehathSanvidu"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
+<a href="https://t.me/ElizaSupporters"><img src="https://img.shields.io/badge/Annie-Eliza%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
+</p>
+
+
+
+## License
+
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/PereraSehath/Eliza-Annie-Video-Streamer/blob/main/LICENSE) See `LICENSE.md` for more information.
 
