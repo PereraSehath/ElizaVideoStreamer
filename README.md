@@ -14,7 +14,20 @@
     <img src="https://img.shields.io/github/issues/PereraSehath/Eliza-Annie-Video-Streamer?style=for-the-badge" alt="Issues">
 </p>
 
+
+<h3 align="center">
+    Ready to use method
+</h3>
+
+<p align="center">
+    A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
+    <a href="https://t.me/Lucifer_Video_S_Bot"> ElizaMusicBot </a> |
+    <a href="https://ElizaSupporters"> Annie-ElizaSupports </a>
+</p>
+
+
 ## 📊 Stats
+
 [![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
 
 ## 🧪 Get `SESSION_NAME` from below:
