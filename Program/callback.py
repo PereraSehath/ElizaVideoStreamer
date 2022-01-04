@@ -46,7 +46,7 @@ async def cbstart(_, query: CallbackQuery):
                         "🌐 Source Code", url="https://github.com/PereraSehath/Eliza-Annie-Video-Streamer"
                     )
                     InlineKeyboardButtton(
-                        "🤖 Bot Checkup Group", url="https://t.me/BotcheckupElizaBot"
+                        "🤖 Team Eliza", url="https://t.me/TeamEliza"
                 ],
             ]
         ),
